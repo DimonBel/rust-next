@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Value"],"fn":["get_byte_mapping","get_unicode_map","parse"],"struct":["ByteMapping","CIDRange","CodeRange"]};

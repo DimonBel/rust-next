@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_todo","delete_todo","get_todo","get_todos","main","update_todo"],"mod":["document_upload_analysis"],"struct":["CreateTodo","Todo","UpdateTodo"],"type":["Db"]};

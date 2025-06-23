@@ -99,7 +99,7 @@ async fn main() -> std::io::Result<()> {
             .configure(document_upload_analysis::init_routes)
             .service(Files::new("/uploads", "uploads").show_files_listing())
     })
-    .bind(("127.0.0.1", 8080))?
+    .bind("0.0.0.0:8080")? 
     .run()
     .await
 } 

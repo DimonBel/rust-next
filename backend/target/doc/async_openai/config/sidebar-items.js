@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["OPENAI_API_BASE","OPENAI_ORGANIZATION_HEADER"],"struct":["AzureConfig","OpenAIConfig"],"trait":["Config"]};

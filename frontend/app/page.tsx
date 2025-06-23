@@ -213,14 +213,14 @@ export default function DocumentDashboard() {
             ) : (
               <Grid container spacing={3}>
                 {documents.length === 0 && (
-                  <Grid item xs={12}>
+                  <Box width="100%">
                     <Typography align="center" color="text.secondary" py={2}>
                       Нет загруженных документов
                     </Typography>
-                  </Grid>
+                  </Box>
                 )}
                 {documents.map(doc => (
-                  <Grid item xs={12} sm={6} md={4} key={doc.filename}>
+                  <Box key={doc.filename} sx={{ width: '100%', mb: 3, '@media (min-width:600px)': { width: '50%' }, '@media (min-width:900px)': { width: '33.33%' }, display: 'inline-block', verticalAlign: 'top' }}>
                     <Card elevation={2} sx={{ borderRadius: 3, cursor: "pointer", transition: "box-shadow 0.2s", ':hover': { boxShadow: 6 } }} onClick={() => handleDocClick(doc)}>
                       <CardHeader
                         avatar={<Avatar sx={{ bgcolor: "primary.light" }}><DescriptionIcon /></Avatar>}
@@ -258,7 +258,7 @@ export default function DocumentDashboard() {
                         </Tooltip>
                       </CardActions>
                     </Card>
-                  </Grid>
+                  </Box>
                 ))}
               </Grid>
             )}

@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\build\mime_guess-41d9963ab4fa026a\out\mime_types_generated.rs

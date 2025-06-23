@@ -1,0 +1,1 @@
+C:\Users\Duma\OneDrive\Рабочий\ стол\vibe-cod\backend\target\debug\backend.exe: C:\Users\Duma\OneDrive\Рабочий\ стол\vibe-cod\backend\src\document_upload_analysis.rs C:\Users\Duma\OneDrive\Рабочий\ стол\vibe-cod\backend\src\main.rs C:\Users\Duma\OneDrive\Рабочий\ стол\vibe-cod\backend\src\schema.rs

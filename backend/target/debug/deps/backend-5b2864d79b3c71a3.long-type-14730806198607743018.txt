@@ -1,0 +1,1 @@
+(Data<Arc<Mutex<Vec<Todo>>>>, actix_web::web::Path<Uuid>, Json<UpdateTodo>)

@@ -1,0 +1,7 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libsct-0915308c769d8a36.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sct-0.7.1\src\lib.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libsct-0915308c769d8a36.rlib: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sct-0.7.1\src\lib.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\sct-0915308c769d8a36.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sct-0.7.1\src\lib.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sct-0.7.1\src\lib.rs:

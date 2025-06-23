@@ -1,0 +1,10 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libeventsource_stream-43ee907add315de4.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\event.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\event_stream.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\parser.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\traits.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\utf8_stream.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\eventsource_stream-43ee907add315de4.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\event.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\event_stream.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\parser.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\traits.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\utf8_stream.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\event.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\event_stream.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\parser.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\traits.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-stream-0.2.3\src\utf8_stream.rs:
