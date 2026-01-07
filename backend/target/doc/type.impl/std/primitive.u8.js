@@ -1,0 +1,9 @@
+(function() {
+    var type_impls = Object.fromEntries([["postscript",[["<details class=\"toggle implementors-toggle\" open><summary><section id=\"impl-Value-for-u8\" class=\"impl\"><a class=\"src rightside\" href=\"src/postscript/tape.rs.html#92\">Source</a><a href=\"#impl-Value-for-u8\" class=\"anchor\">§</a><h3 class=\"code-header\">impl <a class=\"trait\" href=\"postscript/trait.Value.html\" title=\"trait postscript::Value\">Value</a> for <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.84.0/std/primitive.u8.html\">u8</a></h3></section></summary><div class=\"impl-items\"><details class=\"toggle method-toggle\" open><summary><section id=\"method.read\" class=\"method trait-impl\"><a class=\"src rightside\" href=\"src/postscript/tape.rs.html#92\">Source</a><a href=\"#method.read\" class=\"anchor\">§</a><h4 class=\"code-header\">fn <a href=\"postscript/trait.Value.html#tymethod.read\" class=\"fn\">read</a>&lt;T: <a class=\"trait\" href=\"postscript/trait.Tape.html\" title=\"trait postscript::Tape\">Tape</a>&gt;(tape: <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.84.0/std/primitive.reference.html\">&amp;mut T</a>) -&gt; <a class=\"type\" href=\"postscript/type.Result.html\" title=\"type postscript::Result\">Result</a>&lt;Self&gt;</h4></section></summary><div class='docblock'>Read a value.</div></details></div></details>","Value","postscript::compact1::offset::OffsetSize"]]],["serde",[]]]);
+    if (window.register_type_impls) {
+        window.register_type_impls(type_impls);
+    } else {
+        window.pending_type_impls = type_impls;
+    }
+})()
+//{"start":55,"fragment_lengths":[1363,13]}

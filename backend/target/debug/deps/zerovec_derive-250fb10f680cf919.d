@@ -1,0 +1,10 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\zerovec_derive-250fb10f680cf919.dll: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\make_ule.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\make_varule.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\ule.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\utils.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\varule.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\zerovec_derive-250fb10f680cf919.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\make_ule.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\make_varule.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\ule.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\utils.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\varule.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\make_ule.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\make_varule.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\ule.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\utils.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zerovec-derive-0.11.1\src\varule.rs:

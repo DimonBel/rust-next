@@ -1,0 +1,11 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libdigest-0337a968302ed488.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\digest-0337a968302ed488.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs:

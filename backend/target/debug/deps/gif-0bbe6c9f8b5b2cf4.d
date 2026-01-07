@@ -1,0 +1,12 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libgif-0bbe6c9f8b5b2cf4.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\traits.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\common.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\mod.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\decoder.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\converter.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\encoder.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\../README.md
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\gif-0bbe6c9f8b5b2cf4.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\traits.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\common.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\mod.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\decoder.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\converter.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\encoder.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\../README.md
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\traits.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\common.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\mod.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\decoder.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\reader\converter.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\encoder.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.3\src\../README.md:

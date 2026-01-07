@@ -1,0 +1,68 @@
+# Rust
+/backend/target/
+**/*.rs.bk
+Cargo.lock
+
+# Node.js / Next.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+/frontend/.next/
+/frontend/out/
+/frontend/build/
+.vercel
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Uploads & Database
+/backend/uploads/
+*.db
+*.sqlite
+*.sqlite3
+
+# Mac
+*.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp 

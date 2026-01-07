@@ -1,0 +1,9 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libreqwest_eventsource-60a3b3743a9a4080.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\error.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\event_source.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\reqwest_ext.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\retry.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\reqwest_eventsource-60a3b3743a9a4080.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\error.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\event_source.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\reqwest_ext.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\retry.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\error.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\event_source.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\reqwest_ext.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwest-eventsource-0.4.0\src\retry.rs:

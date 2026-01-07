@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["config","error","types"],"struct":["Audio","Chat","Client","Completions","Edits","Embeddings","Files","FineTunes","Images","Models","Moderations"]};

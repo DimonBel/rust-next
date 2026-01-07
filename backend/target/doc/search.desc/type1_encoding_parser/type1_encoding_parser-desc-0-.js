@@ -1,0 +1,1 @@
+searchState.loadedDescShard("type1_encoding_parser", 0, "Returns the argument unchanged.\nCalls <code>U::from(self)</code>.")

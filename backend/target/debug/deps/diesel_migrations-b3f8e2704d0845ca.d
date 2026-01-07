@@ -1,0 +1,9 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libdiesel_migrations-b3f8e2704d0845ca.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\embedded_migrations.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\errors.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\file_based_migrations.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\migration_harness.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\diesel_migrations-b3f8e2704d0845ca.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\embedded_migrations.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\errors.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\file_based_migrations.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\migration_harness.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\embedded_migrations.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\errors.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\file_based_migrations.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\diesel_migrations-2.2.0\src\migration_harness.rs:

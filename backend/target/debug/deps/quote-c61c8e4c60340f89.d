@@ -1,0 +1,11 @@
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\libquote-c61c8e4c60340f89.rmeta: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\ext.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\format.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\ident_fragment.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\to_tokens.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\runtime.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\spanned.rs
+
+C:\Users\Duma\OneDrive\Рабочий стол\vibe-cod\backend\target\debug\deps\quote-c61c8e4c60340f89.d: C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\lib.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\ext.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\format.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\ident_fragment.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\to_tokens.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\runtime.rs C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\spanned.rs
+
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\lib.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\ext.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\format.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\ident_fragment.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\to_tokens.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\runtime.rs:
+C:\Users\Duma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.40\src\spanned.rs:
